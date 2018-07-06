@@ -102,22 +102,22 @@
     {
       "label": "Turkey",
       "value": 1,
-      "color": "#a0a0f0"
+      "color": "magenta"
     },
     {
       "label": "Bosnia and Herzegovina",
       "value": 1,
-      "color": "#a0a0f0"
+      "color": "yellow"
     },
     {
       "label": "Peru",
       "value": 1,
-      "color": "#a0a0f0"
+      "color": "blue"
     },
     {
       "label": "Italy",
       "value": 1,
-      "color": "#a0a0f0"
+      "color": "red"
     }
   ]
 }
