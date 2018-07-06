@@ -1,0 +1,110 @@
+{
+  "content":[
+    {
+      "label":"Netherlands",
+      "value":664,
+      "color":"#6473ce"
+    },
+    {
+      "label": "No gender or country data",
+      "value":355,
+      "color":"#a0a0f0"
+    },
+    {
+      "label":"United stated of america",
+      "value":5,
+      "color":"#f4837d"
+    },
+    {
+      "label":"Uganda",
+      "value":1,
+      "color":"#009900"
+    },
+    {
+      "label":"Azerbaijan",
+      "value":1,
+      "color":"#009900"
+    },
+    {
+      "label":"Russia",
+      "value":2,
+      "color":"#f4837d"
+    },
+    {
+      "label":"United Kingdom",
+      "value":24,
+      "color":"#f4837d"
+    },
+    {
+      "label":"Kingdom of the Netherlands",
+      "value":24,
+      "color":"#f4837d"
+    },
+    {
+      "label":"France",
+      "value":3,
+      "color":"yellow"
+    },
+    {
+      "label":"Germany",
+      "value":9,
+      "color":"green"
+    }, {
+      "label":"Belgium",
+      "value":19,
+      "color":"lightblue"
+    },       {
+      "label":"Morocco",
+      "value":7,
+      "color":"#dedede"
+    },      {
+      "label":"Switzerland",
+      "value":3,
+      "color":"#f3f3f3"
+    },      {
+      "label":"Iran",
+      "value":2,
+      "color":"#666"
+    },
+
+    {
+      "label":"Israel",
+      "value":1,
+      "color":"#222"
+    },      {
+      "label":"Indonesia",
+      "value":8,
+      "color":"#b4b2b1"
+    },              {
+      "label":"Suriname",
+      "value":3,
+      "color":"#660000"
+    },       {
+      "label":"Egypt",
+      "value":3,
+      "color":"#009900"
+    },
+    {
+      "label":"Denmark",
+      "value":3,
+      "color":"#009900"
+    },
+    {
+      "label":"Marocco",
+      "value":7,
+      "color":"#009900"
+    },  {
+      "label":"Canada",
+      "value":1,
+      "color":"#999"
+    },  {
+      "label":"India",
+      "value":1,
+      "color":"#999"
+    },{
+      "label":"Turkey",
+      "value":2,
+      "color":"#999"
+    }
+  ]
+}
