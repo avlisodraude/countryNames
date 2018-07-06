@@ -1,0 +1,19 @@
+{
+  "content":[
+    {
+      "label":"Netherlands",
+      "value":7,
+      "color":"red"
+    },
+    {
+      "label": "No gender or country data",
+      "value": 8,
+      "color": "#a0a0f0"
+    },
+    {
+      "label": "Morocco",
+      "value": 1,
+      "color": "pink"
+    }
+  ]
+}
