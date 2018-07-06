@@ -1,0 +1,14 @@
+{
+  "content":[
+    {
+      "label":"Netherlands",
+      "value":3,
+      "color":"#6473ce"
+    },
+    {
+      "label": "No gender or country data",
+      "value": 2,
+      "color": "#a0a0f0"
+    }
+  ]
+}
