@@ -2,18 +2,13 @@
   "content":[
     {
       "label":"Netherlands",
-      "value":664,
+      "value":1,
       "color":"#6473ce"
     },
     {
       "label": "No gender or country data",
-      "value":3,
-      "color":"#a0a0f0"
-    },
-    {
-      "label":"Netherlands",
-      "value":1,
-      "color":"#f4837d"
+      "value": 3,
+      "color": "#a0a0f0"
     }
   ]
 }
