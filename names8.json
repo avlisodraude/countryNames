@@ -1,0 +1,123 @@
+{
+  "content":[
+    {
+      "label":"Netherlands",
+      "value":634,
+      "color":"#6473ce"
+    },
+    {
+      "label": "No gender or country data",
+      "value": 267,
+      "color": "#a0a0f0"
+    },
+    {
+      "label": "Indonesia",
+      "value": 49,
+      "color": "#a0a0f0"
+    },
+    {
+      "label": "Somalia",
+      "value": 17,
+      "color": "#a0a0f0"
+    },
+    {
+      "label": "Belgium",
+      "value": 14,
+      "color": "#a0a0f0"
+    },    {
+      "label": "France",
+      "value": 12,
+      "color": "#a0a0f0"
+    },
+    {
+      "label": "Egypt",
+      "value": 11,
+      "color": "#a0a0f0"
+    },
+    {
+      "label": "Suriname",
+      "value": 10,
+      "color": "#a0a0f0"
+    },
+    {
+      "label": "Russia",
+      "value": 10,
+      "color": "#a0a0f0"
+    },
+    {
+      "label": "Germany",
+      "value": 10,
+      "color": "#a0a0f0"
+    },
+    {
+      "label": "United Kingdom",
+      "value": 4,
+      "color": "#a0a0f0"
+    },
+    {
+      "label": "Iran",
+      "value": 3,
+      "color": "#a0a0f0"
+    },
+    {
+      "label": "Israel",
+      "value": 3,
+      "color": "#a0a0f0"
+    },
+    {
+      "label": "Morocco",
+      "value": 3,
+      "color": "#a0a0f0"
+    },
+    {
+      "label": "South Africa",
+      "value": 2,
+      "color": "#a0a0f0"
+    },
+    {
+      "label": "United States of America",
+      "value": 2,
+      "color": "#a0a0f0"
+    },
+    {
+      "label": "Austria",
+      "value": 2,
+      "color": "#a0a0f0"
+    },
+    {
+      "label": "Chile",
+      "value": 1,
+      "color": "#a0a0f0"
+    },
+    {
+      "label": "Ghana",
+      "value": 2,
+      "color": "#a0a0f0"
+    },
+    {
+      "label": "Georgia",
+      "value": 1,
+      "color": "#a0a0f0"
+    },
+    {
+      "label": "Turkey",
+      "value": 1,
+      "color": "#a0a0f0"
+    },
+    {
+      "label": "Bosnia and Herzegovina",
+      "value": 1,
+      "color": "#a0a0f0"
+    },
+    {
+      "label": "Peru",
+      "value": 1,
+      "color": "#a0a0f0"
+    },
+    {
+      "label": "Italy",
+      "value": 1,
+      "color": "#a0a0f0"
+    }
+  ]
+}
