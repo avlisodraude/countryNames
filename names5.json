@@ -1,0 +1,39 @@
+{
+  "content":[
+    {
+      "label":"Netherlands",
+      "value":68,
+      "color":"#6473ce"
+    },
+    {
+      "label": "No gender or country data",
+      "value": 43,
+      "color": "#a0a0f0"
+    },
+    {
+      "label":"Egypt",
+      "value":2,
+      "color":"green"
+    },
+    {
+      "label":"Indonesia",
+      "value":1,
+      "color":"black"
+    },
+    {
+      "label":"Bosnia and Herzegovina",
+      "value":1,
+      "color":"yellow"
+    },
+    {
+      "label":"France",
+      "value":1,
+      "color":"red"
+    },
+    {
+      "label":"Suriname",
+      "value":1,
+      "color":"#6473ce"
+    }
+  ]
+}
